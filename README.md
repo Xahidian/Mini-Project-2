@@ -3,7 +3,7 @@
 ## Student ID: 2302302
 
 ## Introduction
-This project focuses on sentiment analysis of Twitter data, aiming to classify tweets from the Sentiment140 dataset into different sentiment categories[^3^][3]. The challenge lies in processing tweets with special characters, URLs, and mentions to ensure model effectiveness
+This project focuses on sentiment analysis of Twitter data, aiming to classify tweets from the Sentiment140 dataset into different sentiment categories. The challenge lies in processing tweets with special characters, URLs, and mentions to ensure model effectiveness
 
 ## Data Processing Method
 - **Loading the Data**: Utilized pandas to load TSV data into a DataFrame.
